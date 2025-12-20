@@ -1,4 +1,4 @@
-matplotlib
 streamlit
+matplotlib
 numpy
 scikit-learn
